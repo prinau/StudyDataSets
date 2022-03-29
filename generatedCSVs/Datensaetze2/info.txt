@@ -1,0 +1,22 @@
+Convex c Noise n 2D 3D
+1_c3D		6 Cluster: 2CapsuleDense, 2SphereDense, 1CapsuleSparse, 1SphereSparse (4225) 1+2
+2_c3D		7 Cluster: 2CapsuleDense, 3SphereDense, 1SphereSparse, 1CapsuleSparse (4513) 2+6
+3_c2D		6 Cluster: 1Sphere2DDense, 1Wall2DDense, 1CapsuleDense, 1SphereDense, 1CapsuleSparse, 1SphereSparse (3771) 3+4
+4_c2D 		5 Cluster: 1Wall2DDense, 1Sphere2DDense, 1SphereDense, 2CapsuleSparse (3044) 4+8
+
+5_cn3D		1 rotated 
+6_cn3D		2 rotated 
+7_cn2D		3 rotated 
+8_cn2D		4 rotated 
+
+
+Shape s Noise n 2D 3D
+9_s3D		5 Cluster: 1DoughnutDense, 1UDense, 1YDense, 1DoughnutSparse, 1SSparse (2739)
+10_s3D		6 Cluster: 1YDense, 1UDense, 1SDense, 1DoughnutDense, 1DoughnutSparse, 1SpiraleSparse (2073)
+11_s2D		6 Cluster: 1Doughnut2DDense, 1S2DDense, 1SpiraleDense, 1UDense, 1YSparse, 1SSparse (3762)
+12_s2D		7 Cluster: 1Sinus2DDense, 1Doughnut2DDense, 1DoughnutDense, 1UDense, 1SDense, 1YSparse, 1SSparse (4378)
+
+13_sn3D		9 rotated
+14_sn3D 	10 rotated
+15_sn2D 	11 rotated
+16_sn2D		12 rotated
